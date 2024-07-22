@@ -11,5 +11,5 @@ Please follow below instruction to complete the tests
 8. Push the code to your Github account with public access and provide the link in the answer box.
 
 <p align="left">
-  <img src="demo.gif" width="640"/>
+  <img src="Cat_tracking.png" width="640"/>
 </p>
