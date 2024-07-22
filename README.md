@@ -1,4 +1,4 @@
-## Technical test for internship program 2024
+## Submission for internship program 2024
 
 Please follow below instruction to complete the tests
 1. Correct all errors in the yolo_detector.py script and ensure its successful execution.
